@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Coby
+# Hi there 👋 I'm Collins Osei Bonsu
 
 ## About Me
 Self-taught Computer Engineer passionate about building modern web and mobile applications. I love turning ideas into reality through clean, efficient code.
